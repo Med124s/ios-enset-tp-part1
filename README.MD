@@ -2,4 +2,4 @@
 <h3>Fichier de configuration Dynamique</h3>
 <img src="captures/conf.xml.JPG"/>
 <img src="captures/versionBD.JPG"/>
-<img src="captures/versionWS.JPG"/>
+<img src="captures/VersionWS.JPG"/>
